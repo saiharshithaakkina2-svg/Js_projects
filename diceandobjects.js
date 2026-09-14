@@ -1,3 +1,4 @@
+//this is dice game (generate a random number)
 const playWithDice = document.getElementById("diceContainer")
 const btn = document.getElementById("btn")
 const player1 = document.getElementById("player1")
@@ -32,7 +33,7 @@ btn.addEventListener ( "click" , function() {
 
     })
 
-
+// This is Age Calculator
  const ageCaluculator = document.getElementById("ageCalculator")
  const dob = document.getElementById("dob");
 const calculate = document.getElementById("calculate");
